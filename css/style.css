@@ -85,7 +85,7 @@ nav .header_right .algos button {
 }
 
 nav .header_right .algos button:hover {
-  background-color: blue;
+  background-color: orangered;
   cursor: pointer;
 }
 
