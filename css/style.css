@@ -48,6 +48,8 @@ nav .array-inputs #a_generate {
 
 nav .array-inputs #a_generate:hover {
   cursor: pointer;
+  color: greenyellow;
+  scale: 1.2;
 }
 
 nav .header_right {
