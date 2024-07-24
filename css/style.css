@@ -35,6 +35,12 @@ nav .array-inputs #a_size {
 
 nav .array-inputs #a_speed {
   padding: 5% 0%;
+
+}
+
+nav .array-inputs #a_speed:hover {
+  cursor: pointer;
+  background-color: olivedrab;
 }
 
 nav .array-inputs #a_generate {
