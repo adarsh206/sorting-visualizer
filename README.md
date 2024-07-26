@@ -1,3 +1,16 @@
+# Images:
+
+![Screenshot 2024-07-26 111522](https://github.com/user-attachments/assets/7c056e7d-fcd1-425f-85b6-fc812696e6da)
+![Screenshot 2024-07-26 111545](https://github.com/user-attachments/assets/2633c07a-a86f-4921-8f83-60f7a43991a0)
+![Screenshot 2024-07-26 111614](https://github.com/user-attachments/assets/9ccb5bf3-fc97-47e0-a445-0a482fbc5a42)
+![Screenshot 2024-07-26 112734](https://github.com/user-attachments/assets/3cce0aa8-5617-40ae-ad34-302d5295b2c4)
+![Screenshot 2024-07-26 112840](https://github.com/user-attachments/assets/da6b6f35-8465-477d-b631-8e85a1f27a09)
+![Screenshot 2024-07-26 112926](https://github.com/user-attachments/assets/428fb62b-e809-483b-bb02-8f763fa50cb6)
+![Screenshot 2024-07-26 112944](https://github.com/user-attachments/assets/43cdcff2-4aac-46c7-bd93-1ed337779922)
+
+
+
+
 # Sorting Visualizer:
 
 A web application showcasing the inner workings of sorting algorithms.
